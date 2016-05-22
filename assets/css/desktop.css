@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+/*	navbar */
+.navbar{
+	margin-left:-10px;
+	margin-bottom:2px;
+	padding-left: 10px;
+	padding-right:10px;
+	 border-radius: 0px;
+	 box-shadow: 5px 5px 5px;
+	 z-index: 1;
+}
+
+
+#nav_right{
+	margin-top: 10px;
+}
+
+/*nav languag button */
+.lang{
+	background-color: gray;
+	border-color: gray;
+	margin-top:10px;
+	margin-left:5px;
+	padding: 5px;
+	height:30px;
+	width:40px;
+	font-size: 10px;
+	text-align: center;
+}
+
+
+/* Model style */
+.modal-header{
+	background-color: gray;	
+}
+
+/* mid of page index.php */
+
+#left_mid{
+	background-color: black;
+	height: 1000px;		
+}
+
+#right_mid{
+	background-color: black;
+	height: 1000px;
+}
+
+#content{
+	z-index: 1;
+	box-shadow: 0 4px 8px 0 , 0 6px 20px 0 ;
+}	

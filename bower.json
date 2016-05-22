@@ -1,0 +1,26 @@
+{
+  "name": "malina",
+  "authors": [
+    "Nikola Ristic <NikolaRistic1992@gmail.com>"
+  ],
+  "description": "sajt za planatzu malina",
+  "main": "index.php",
+  "moduleTypes": [],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependecies": {},
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "normalize-css": "^4.0.0",
+    "requirejs": "^2.2.0",
+    "CanJS": "canjs#^2.3.23"
+  }
+}
