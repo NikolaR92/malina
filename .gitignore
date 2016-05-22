@@ -1,5 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 /node_modules
+/node_modules/bootstrap
+/bower_components
 /dist
 /lib
